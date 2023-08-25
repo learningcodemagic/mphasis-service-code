@@ -1,0 +1,8 @@
+<ehcache>
+
+    <defaultCache maxElementsInMemory="100" eternal="false"
+                  timeToIdleSeconds="500" timeToLiveSeconds="1000" />
+
+    <cache name="Audit" maxElementsInMemory="100"
+           eternal="false" timeToIdleSeconds="500" timeToLiveSeconds="1000" />
+</ehcache>
